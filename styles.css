@@ -1,0 +1,51 @@
+body {
+  margin: auto;
+  background-color: pink;
+  align-items: center;
+  text-align: center;
+}
+
+.container {
+  margin: 5%;
+  background: skyblue;
+  border-radius: 10px;
+  border: 2px solid red;
+}
+
+.items-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 2%;
+  margin: 2%;
+}
+
+.item {
+  width: 150px;
+  margin: 20px;
+  background: whitesmoke;
+  border: 2px solid green;
+  border-radius: 5px;
+  padding: 1%;
+  margin: 2%;
+}
+
+.item a {
+  text-decoration: none;
+  font-size: 25px;
+  color: rgb(250, 16, 16);
+}
+
+.title {
+  color: green;
+}
+
+.footer {
+  font-size: 30px;
+  background: pink;
+}
+
+.footer a {
+  color: green;
+  text-decoration: none;
+}
