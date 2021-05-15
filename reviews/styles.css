@@ -289,4 +289,11 @@ main {
 .random-btn:hover {
   background: var(--clr-primary-5);
   color: var(--clr-primary-1);
+}.homepath {
+  font-size: 1.75rem; 
+  text-align: center;
+  padding-top: 10px;
+}
+.homepath a {
+  color: var(--clr-primary-5);
 }

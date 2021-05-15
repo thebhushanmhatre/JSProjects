@@ -221,3 +221,9 @@ main {
 .color {
   color: var(--clr-primary-5);
 }
+
+.homepath {
+  font-size: 1.75rem; 
+  margin-bottom: 0;
+  color: var(--clr-primary-5);
+}

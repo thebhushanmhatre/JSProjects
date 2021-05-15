@@ -3,30 +3,6 @@
   padding: 0;
 }
 
-h1, .buttons { 
-  text-align: center;
-  margin: 20px;
-}
-
-#prev, #next {
-  padding: 10px;
-}
-
-.carousel-container {
-  width: 415px;
-  margin: auto;
-  border: solid 2px grey;
-  overflow: hidden;
-}
-
-.carousel-slide {
-  display: flex;
-}
-
-.content {
-  padding-top: 3rem;
-}
-
 .navbar {
   display: flex;
   justify-content: space-around;
